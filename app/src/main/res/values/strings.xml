@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Сохранение/восстановление текста во внутренний файл</string>
+    <string name="loginText">Login:</string>
+    <string name="passwordText">Password:</string>
+    <string name="buttonOK">OK</string>
+    <string name="buttonRegistration">REGISTRATION</string>
+    <string name="textAlarmLogin">Alarm: Login not entered!</string>
+    <string name="textAlarmPassword">Alarm: Password not entered!</string>
+    <string name="loginFileName">login_file</string>
+    <string name="passwordFileName">password_file</string>
+    <string name="textErrorNoEntered">Error:  No login or password entered!</string>
+    <string name="textErrorChech">Error: Check your login or password!</string>
+    <string name="textMessageGood">Very good! Login: %s Password: %s</string>
+    <string name="textButtonClear">Clear</string>
+    <string name="textMessageSave">Сохранено во внутренний файл</string>
+    <string name="textMessageClear">Cleared login or password!</string>
+</resources>
